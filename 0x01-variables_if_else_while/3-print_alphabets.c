@@ -4,6 +4,7 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char c;
@@ -18,7 +19,7 @@ int main(void)
 			c++;
 		}
 	while
-		(c <= 'Z') {
+		(d <= 'Z') {
 			putchar(d);
 			d++;
 		}
