@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlb.h>
+#include <stdlib.h>
 
 /**
  * main - returns a combination of number
